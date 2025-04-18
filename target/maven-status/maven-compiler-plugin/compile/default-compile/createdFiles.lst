@@ -1,0 +1,9 @@
+factory\FabricaCalca.class
+Main.class
+roupas\Calca.class
+roupas\Camiseta.class
+factory\FabricaRoupa.class
+factory\FabricaJaqueta.class
+roupas\Roupa.class
+roupas\Jaqueta.class
+factory\FabricaCamiseta.class
